@@ -1,0 +1,270 @@
+{
+  "layerInfos": [
+    {
+      "name": "Attractions",
+      "id": "attraction_geojson_6426_0",
+      "layer": {
+        "url": ""
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "name",
+      "isDescending": false
+    },
+    {
+      "name": "Artwork",
+      "id": "Artwork_geojson_3129_0",
+      "layer": {
+        "url": ""
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "name",
+      "isDescending": false
+    },
+    {
+      "name": "Bar",
+      "id": "bar_geojson_4582_0",
+      "layer": {
+        "url": ""
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "name",
+      "isDescending": false
+    },
+    {
+      "name": "Cafe",
+      "id": "cafe_geojson_1139_0",
+      "layer": {
+        "url": ""
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "name",
+      "isDescending": false
+    },
+    {
+      "name": "Car Rentals",
+      "id": "Car_Rentals_geojson_2099_0",
+      "layer": {
+        "url": ""
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "name",
+      "isDescending": false
+    },
+    {
+      "name": "Cinema",
+      "id": "Cinema_geojson_3820_0",
+      "layer": {
+        "url": ""
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "name",
+      "isDescending": false
+    },
+    {
+      "name": "Drinking Water",
+      "id": "Drinking_Water_geojson_6247_0",
+      "layer": {
+        "url": ""
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "@id",
+      "isDescending": false
+    },
+    {
+      "name": "Finacial Services",
+      "id": "Finacial_Services_geojson_9395_0",
+      "layer": {
+        "url": ""
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "name",
+      "isDescending": false
+    },
+    {
+      "name": "Fitness-Gym",
+      "id": "Fitness-Gym_geojson_5163_0",
+      "layer": {
+        "url": ""
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "name",
+      "isDescending": false
+    },
+    {
+      "name": "Food",
+      "id": "Food_geojson_2439_0",
+      "layer": {
+        "url": ""
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "name",
+      "isDescending": false
+    },
+    {
+      "name": "Historic",
+      "id": "Historic_geojson_302_0",
+      "layer": {
+        "url": ""
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "name",
+      "isDescending": false
+    },
+    {
+      "name": "Hospital",
+      "id": "Hospital_geojson_1770_0",
+      "layer": {
+        "url": ""
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "name",
+      "isDescending": false
+    },
+    {
+      "name": "Hotel",
+      "id": "Hotel_geojson_7416_0",
+      "layer": {
+        "url": ""
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "name",
+      "isDescending": false
+    },
+    {
+      "name": "Information",
+      "id": "Information_geojson_6559_0",
+      "layer": {
+        "url": ""
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "name",
+      "isDescending": false
+    },
+    {
+      "name": "Marina",
+      "id": "Marina_geojson_6757_0",
+      "layer": {
+        "url": ""
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "@id",
+      "isDescending": false
+    },
+    {
+      "name": "Museum",
+      "id": "museum_geojson_631_0",
+      "layer": {
+        "url": ""
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "name",
+      "isDescending": false
+    },
+    {
+      "name": "Nature Reserve",
+      "id": "Nature_Reserve_geojson_3737_0",
+      "layer": {
+        "url": ""
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "name",
+      "isDescending": false
+    },
+    {
+      "name": "Nightclubs",
+      "id": "Nightclubs_geojson_3840_0",
+      "layer": {
+        "url": ""
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "name",
+      "isDescending": false
+    },
+    {
+      "name": "Picnic",
+      "id": "Picnic_geojson_5823_0",
+      "layer": {
+        "url": ""
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "@id",
+      "isDescending": false
+    },
+    {
+      "name": "Place_of_Worship",
+      "id": "Place_of_Worship_geojson_1311_0",
+      "layer": {
+        "url": ""
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "name",
+      "isDescending": false
+    },
+    {
+      "name": "School",
+      "id": "School_geojson_6574_0",
+      "layer": {
+        "url": ""
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "name",
+      "isDescending": false
+    },
+    {
+      "name": "Sports Centre",
+      "id": "sport_geojson_2044_0",
+      "layer": {
+        "url": ""
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "name",
+      "isDescending": false
+    },
+    {
+      "name": "Viewpoint",
+      "id": "Viewpoint_geojson_7883_0",
+      "layer": {
+        "url": ""
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "name",
+      "isDescending": false
+    }
+  ],
+  "table": {
+    "pageSizeOptions": [
+      25,
+      50,
+      100,
+      1000
+    ]
+  },
+  "hideExportButton": true,
+  "initiallyExpand": false,
+  "filterByMapExtent": true,
+  "allowTextSelection": true,
+  "syncWithLayers": false
+}
